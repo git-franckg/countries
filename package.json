@@ -1,0 +1,31 @@
+{
+  "name": "@git-franckg/countries",
+  "version": "1.0.0",
+  "description": "ISO-3166 for TypeScript, also includes obsolete countries.",
+  "type": "module",
+  "module": "./src/index.ts",
+  "main": "./src/index.ts",
+  "types": "./src/index.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/git-franckg/countries"
+  },
+  "keywords": [
+    "country",
+    "countries",
+    "iso-3166",
+    "iso-3166-1",
+    "iso-3166-2"
+  ],
+  "author": "Franck GOGO <franck.gogo@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/git-franckg/countries/issues"
+  },
+  "packageManager": "yarn@4.6.0",
+  "$schema": "https://json.schemastore.org/package.json",
+  "devDependencies": {
+    "prettier": "^3.5.3",
+    "tsx": "^4.19.4"
+  }
+}
