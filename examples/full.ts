@@ -1,4 +1,4 @@
-import { getByIso2, getByIso3, getByIsoNum } from '../src/index'
+import { getByIso2, getByIso3, getByIsoNum } from '../src/index.js'
 
 console.info("France using iso-3166 alpha-2", getByIso2("FR"))
 console.info("France using iso-3166 alpha-3", getByIso3("FRA"))

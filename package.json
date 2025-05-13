@@ -1,6 +1,6 @@
 {
   "name": "@git-franckg/countries",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "ISO-3166 for TypeScript, also includes obsolete countries.",
   "type": "module",
   "module": "./src/index.ts",

@@ -1,4 +1,4 @@
-import Countries from './metadata'
+import Countries from './metadata.js'
 
 export type Countries = typeof Countries
 export type Country = Countries[number]

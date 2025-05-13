@@ -5,8 +5,8 @@
     "incremental": true,
     "tsBuildInfoFile": "./node_modules/.tsbuildinfo",
     "target": "es2016",
-    "module": "ES2020",
-    "moduleResolution": "bundler",
+    "module": "NodeNext",
+    "moduleResolution": "nodenext",
     "esModuleInterop": false,
     "forceConsistentCasingInFileNames": true,
     "strict": true, /* Enable all strict type-checking options. */
